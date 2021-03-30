@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173084523089",
+    "firebase_url": "https://cameraxapp-7e38d.firebaseio.com",
+    "project_id": "cameraxapp-7e38d",
+    "storage_bucket": "cameraxapp-7e38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173084523089:android:d5928e152e8463ea9c5670",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.cameraxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173084523089-thjqaq35ps9ef0f4129iqbq6hu7ukkl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWdg4dFjdfdbjeJRyUGLFSl8GoUalnazU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173084523089-thjqaq35ps9ef0f4129iqbq6hu7ukkl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
